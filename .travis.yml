@@ -16,6 +16,9 @@ matrix:
       env: DB=MYSQL
 
 before_script:
+  - phpenv rehash
+  - phpenv config-rm xdebug.ini
+
   - composer validate
   - composer require --no-update silverstripe-themes/simple ~3.2.0
   - if [[ $DB == PGSQL ]]; then composer require silverstripe/postgresql:2.0.x-dev --no-update; fi
