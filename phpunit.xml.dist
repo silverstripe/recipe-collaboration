@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
+    <testsuite name="recipe-collaboration">
+        <directory>vendor/silverstripe/contentreview/tests</directory>
+        <directory>vendor/silverstripe/sharedraftcontent/tests</directory>
+        <directory>vendor/symbiote/silverstripe-advancedworkflow/tests</directory>
+    </testsuite>
+</phpunit>
