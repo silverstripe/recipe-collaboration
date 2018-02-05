@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/silverstripe/recipe-collaboration.svg?branch=master)](https://travis-ci.org/silverstripe/recipe-collaboration)
 
-Extra CMS functionality recipe for a [CWP 2](https://www.cwp.govt.nz) installation. This includes the following core
-SilverStripe and CWP modules:
+Extra CMS functionality recipe for a [CWP 2](https://www.cwp.govt.nz) installation. This includes the following core SilverStripe and community modules:
 
  * [silverstripe/recipe-cms](https://github.com/silverstripe/recipe-cms): Recipe containing CMS, versioned, asset-admin, etc
  * [silverstripe/contentreview](https://github.com/silverstripe/silverstripe-contentreview/): Mark a page in
