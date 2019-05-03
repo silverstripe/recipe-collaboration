@@ -8,7 +8,7 @@
         "silverstripe/recipe-plugin": "^1",
         "silverstripe/recipe-cms": "^4.4",
         "silverstripe/contentreview": "4.1.x-dev",
-        "silverstripe/sharedraftcontent": "2.2.x-dev",
+        "silverstripe/sharedraftcontent": "2.3.x-dev",
         "symbiote/silverstripe-advancedworkflow": "5.2.x-dev"
     },
     "require-dev": {
