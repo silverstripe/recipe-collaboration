@@ -1,7 +1,7 @@
 {
   "github-slug": "silverstripe/recipe-collaboration",
   "child-stability-inherit": false,
-  "dependency-constraint": "exact",
+  "dependency-constraint": "loose",
   "vendors": [
     "silverstripe",
     "symbiote"
