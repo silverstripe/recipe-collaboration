@@ -6,10 +6,10 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "4.x-dev",
-        "silverstripe/contentreview": "4.x-dev",
-        "silverstripe/sharedraftcontent": "2.x-dev",
-        "symbiote/silverstripe-advancedworkflow": "5.x-dev"
+        "silverstripe/recipe-cms": "~4.9.0@beta",
+        "silverstripe/contentreview": "~4.3.0@beta",
+        "silverstripe/sharedraftcontent": "~2.5.0@beta",
+        "symbiote/silverstripe-advancedworkflow": "~5.5.0@beta"
     },
     "require-dev": {
         "sminnee/phpunit": "^5.7"
