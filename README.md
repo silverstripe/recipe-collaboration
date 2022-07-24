@@ -1,6 +1,6 @@
 ## SilverStripe Collaboration Recipe
 
-[![Build Status](https://api.travis-ci.com/silverstripe/recipe-collaboration.svg?branch=1)](https://travis-ci.com/silverstripe/recipe-collaboration)
+[![CI](https://github.com/silverstripe/recipe-collaboration/actions/workflows/ci.yml/badge.svg)](https://github.com/silverstripe/recipe-collaboration/actions/workflows/ci.yml)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 Extra CMS functionality recipe for a [CWP 2](https://www.cwp.govt.nz) installation. This includes the following core SilverStripe and community modules:
