@@ -18,10 +18,7 @@
         "silverstripe/versionfeed": "Provides an RSS feed for global site changes"
     },
     "extra": {
-        "project-files": [],
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
+        "project-files": []
     },
     "config": {
         "process-timeout": 600
